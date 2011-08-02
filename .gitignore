@@ -1,1 +1,4 @@
 .metadata
+cachedir/
+bin/
+*.class
